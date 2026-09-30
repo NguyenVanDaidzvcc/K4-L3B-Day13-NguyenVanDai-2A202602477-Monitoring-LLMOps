@@ -7,10 +7,10 @@
 - **Họ và tên:** Nguyễn Văn Đại
 - **MSSV:** 2A202602477
 - **Lớp:** K4-L3B
-- **Repository URL:** [bổ sung URL repository]
-- **Commit SHA cuối:** [bổ sung SHA sau commit cuối]
+- **Repository URL:** https://github.com/NguyenVanDaidzvcc/K4-L3B-Day13-NguyenVanDai-2A202602477-Monitoring-LLMOps
+- **Commit SHA cuối:** 2cefe0bfb5f04161e80520613dd3681767294873
 - **Challenge ID:** `day13-k4-l3b-monitoring-llmops-v1`
-- **Tên project Langfuse cá nhân:** [xác nhận đúng tên hiển thị trong Langfuse]
+- **Tên project Langfuse cá nhân:** day13-k4-l3b-2A202602477
 
 ## 2. Evidence index
 
